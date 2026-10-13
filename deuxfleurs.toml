@@ -15,10 +15,18 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/expositions/index.html"
-to = "/programme/"
+from = "/personnes/index.html"
+to = "/communaute/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/index.html"
-to = "/programme/archives-expositions/"
+from = "/programme/index.html"
+to = "/expositions/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/editions/"
+
+[[redirects]]
+from = "/programme/archives-expositions/index.html"
+to = "/expositions/archives-expositions/"
 
