@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Programme
-  slug: programme
+- title: Expositions
+  slug: expositions
   target: "/expositions/"
   kind: page
   new_tab: false
