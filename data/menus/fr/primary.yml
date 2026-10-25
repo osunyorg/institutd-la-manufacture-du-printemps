@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: La manuf'
-  slug: la-manuf
+- title: Espace
+  slug: espace
   target: "/la-manuf/"
   kind: page
   new_tab: false
