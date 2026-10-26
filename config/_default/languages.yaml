@@ -15,6 +15,12 @@ fr:
             manuf@institut.design
           value: >-
             mailto:manuf@institut.design
+      social_networks:
+        instagram:
+          label: >-
+            manufactureduprintemps
+          value: >-
+            https://instagram.com/manufactureduprintemps
 
   taxonomies:
     administrator: administrators
