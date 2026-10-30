@@ -10,6 +10,24 @@ items:
   descendants_targets: []
   path: "/pages/la-manuf"
   file: content/fr/pages/la-manuf/_index.html
+- title: Éditions
+  slug: editions
+  target: "/editions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
+- title: Atelier Riso
+  slug: atelier-riso
+  target: "/risographie/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/risographie"
+  file: content/fr/pages/risographie/_index.html
 - title: Agenda
   slug: agenda
   target: "/agenda/"
@@ -37,22 +55,4 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Éditions
-  slug: editions
-  target: "/editions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
-- title: Atelier Riso
-  slug: atelier-riso
-  target: "/risographie/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/risographie"
-  file: content/fr/pages/risographie/_index.html
 
