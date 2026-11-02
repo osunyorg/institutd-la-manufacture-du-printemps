@@ -1,0 +1,11 @@
+header#document-header
+    .upper-menu
+        .nav-level-1
+            > li > a
+                &::after
+                    content: ""
+        @include media-breakpoint-up(desktop)
+            .nav-level-1
+                justify-content: end
+        @include media-breakpoint-down(desktop)
+            background: $color-text !important
