@@ -27,6 +27,10 @@ from = "/programme/index.html"
 to = "/expositions/"
 
 [[redirects]]
+from = "/communaute/guillaume-freseau/index.html"
+to = "/communaute/guillaume-fresneau/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/editions/"
 
