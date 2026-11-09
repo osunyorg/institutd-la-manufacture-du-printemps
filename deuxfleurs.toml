@@ -23,10 +23,6 @@ from = "/personnes/equipe-editoriale/index.html"
 to = "/communaute/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/2026/amap-de-la-gare/index.html"
-to = "/agenda/2026/distribution-20261/"
-
-[[redirects]]
 from = "/programme/index.html"
 to = "/expositions/"
 
